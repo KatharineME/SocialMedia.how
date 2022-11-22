@@ -6,8 +6,8 @@ Cheers!
 
 ## Tweet about Julia
 
-#julialang #datascience #programming
-@genkuroki @markkitti @eliascarvdev @abhi_jl @mhsatman @OfficialLoganK
+#julialang #programming #datascience #bioinformatics #genomics
+@genkuroki @markkitti @eliascarvdev @mhsatman @OfficialLoganK @ArgoloF
 
 If you learned something from this (and want others to get some too), please like it, retweet it, and follow @KwatMDPhD 🌱
 1% better than yesterday 📈
