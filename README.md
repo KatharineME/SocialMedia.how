@@ -21,7 +21,6 @@ Produce 3 types of content
 - Choose 1 topic
 - Consume 30 minutes of content
 - Write 5 tweets about it
-- Repeat every day
 
 Get Attention
 
