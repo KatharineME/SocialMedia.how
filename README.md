@@ -1,13 +1,47 @@
-## Podcast description
+Social media is your new resume.
 
-Hi, I'm Kwat. I'm a medical student. This is my rant about TOPIC. I hope you like it :)
-Connect with me at KwatMDPhD.com, and let me know what you think.
-Cheers!
+## Do Daily
 
-## Tweet about Julia
+Produce 3 types of content
 
-#programming #datascience #bioinformatics #genomics #julialang
+1. Growth Content
+    - The Mere Exposure Effect
+    - People usually follow someone after seeing their content a few times, not once. 
+    - Increase your volume to increase your exposure to increase your follows.
+2. Authority Content
+    - Show your results
+    - Use your case studies
+    - Talk about your transformation
+3. Personal Content
+    - Your worldview, personal thoughts, and story
+    - Give real world context behind your beliefs
 
-If you learned something from this, please like it, retweet it, and follow @KwatMDPhD 🌱
-1% better than yesterday 📈
-See you in the next ⌨️
+1-30-5
+
+- Choose 1 topic
+- Consume 30 minutes of content
+- Write 5 tweets about it
+- Repeat every day
+
+Get Attention
+
+- Ask a question
+- Make them curious
+
+## Sell
+
+Your face is more powerful than your logo.
+
+Use storytelling in marketing.
+
+Focus on how to help the client instead of trying to sell them something. Empathy wins sales.
+
+People buy the transformation not the product.
+
+People buy with emotion and justify with logic.
+
+Everyone's motivation revolves around two drives: emotional (raising status and feeling loved) and biological (fulfilling basic needs). Speak to these motivations.
+
+## Build Your Network
+
+- Message and connect with people who are on your follower level. Many will grow with you and help you later on.
