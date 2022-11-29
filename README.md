@@ -5,16 +5,16 @@ Social media is your new resume.
 Produce 3 types of content
 
 1. Growth
-    - The Mere Exposure Effect
-    - People usually follow someone after seeing their content a few times, not once
-    - Increase your volume to increase your exposure to increase your follows
-2. Authority 
-    - Show your results
-    - Use your case studies
-    - Talk about your transformation
+   - The Mere Exposure Effect
+   - People usually follow someone after seeing their content a few times, not once
+   - Increase your volume to increase your exposure to increase your follows
+2. Authority
+   - Show your results
+   - Use your case studies
+   - Talk about your transformation
 3. Personal
-    - Your worldview, personal thoughts, and story
-    - Give real world context behind your beliefs
+   - Your worldview, personal thoughts, and story
+   - Give real world context behind your beliefs
 
 1-30-5
 
