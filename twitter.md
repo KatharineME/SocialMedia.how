@@ -6,7 +6,7 @@ https://business.twitter.com/en/blog/the-dos-and-donts-of-hashtags.html[https://
 
 If you learned something from this (and want others to get some too), please like it, retweet it, and follow @KwatMDPhD 🌱
 1% better than yesterday 📈
-See you in the next ⌨️a
+See you in the next ⌨️
 
 ## Twitter Genomics
 
