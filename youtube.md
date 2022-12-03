@@ -14,5 +14,5 @@ Effective Formats
 Monetization
 
 - Different from long form videos
-- Each month a portion of the YouTube creators fund is distributed amongst the most shorts with at least 10 million views over a 90 day period from channels with more than 1000 subscribers
+- Each month a portion of the YouTube creators fund is distributed amongst shorts with at least 10 million views over a 90 day period from channels with more than 1000 subscribers
 - YouTube will begin placing ads in between very successful shorts
