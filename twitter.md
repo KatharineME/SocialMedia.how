@@ -1,5 +1,7 @@
 https://business.twitter.com/en/blog/the-dos-and-donts-of-hashtags.html[https://business.twitter.com/en/blog/the-dos-and-donts-of-hashtags.html]
 
+Update hashtags monthly.
+
 ## Twitter Julia
 
 #programming #datascience #bioinformatics #genomics #julialang #rustlang #python

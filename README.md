@@ -1,5 +1,11 @@
 Social media is your new resume.
 
+Aim to produce a book from your social media content.
+
+Create content banks that you can query.
+
+Leverage your physical attractiveness to gain following.
+
 ## Do Daily
 
 Produce 3 types of content
