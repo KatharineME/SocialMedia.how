@@ -6,6 +6,8 @@ Create content banks that you can query.
 
 Leverage your physical attractiveness to gain following.
 
+Update hashtags monthly based on whats trending.
+
 ## Do Daily
 
 Produce 3 types of content
