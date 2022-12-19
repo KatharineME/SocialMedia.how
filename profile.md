@@ -16,4 +16,4 @@ Mother of two. Bioinformatician. CEO at Guardiome. Ex professional ballet dancer
 ## Amanda
 
 Teaching the everyday person to write ✍️
-Writer, student, musician.
+Author, wordsmith, student, musician.

@@ -2,19 +2,24 @@ https://business.twitter.com/en/blog/the-dos-and-donts-of-hashtags.html[https://
 
 Update hashtags monthly.
 
-## Twitter Julia
+## Julia
 
 #programming #datascience #bioinformatics #genomics #julialang #rustlang #python
 
 If you learned something from this (and want others to get some too), please like it, retweet it, and follow @KwatMDPhD 🌱
 1% better than yesterday 📈
 See you in the next ⌨️
-Update hashtags monthly based on whats trending.
 
-## Twitter Genomics
+## Genomics
 
 #genomics #bioinformatics #dna #science
 
 If you learned something from this (and think its worth sharing), please like it, retweet it, and follow @KatharineME 🧬
 Always learning ☀️
 Genomics is timeless ♾️
+
+## Writing
+
+#writing #writingtips #editing #creativewriting #writerssupportingwriters #amwriting
+
+If you learned something today, please like, retweet, and follow @AmandaErnar 👩‍💻
