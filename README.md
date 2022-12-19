@@ -1,28 +1,18 @@
-Social media is your new resume.
+Your new resume.
 
-Aim to produce a book from your social media content.
+Have content bank to query.
 
-Create content banks that you can query.
+Aim to produce a book from content.
 
-Leverage your physical attractiveness to gain following.
+Leverage physical appearance.
 
-Update hashtags monthly based on whats trending.
+Update hashtags monthly based off of trends.
 
-## Do Daily
+Increase volume to increase exposure.
 
-Produce 3 types of content
+Showcase results, case studies, transformations, etc.
 
-1. Growth
-   - The Mere Exposure Effect
-   - People usually follow someone after seeing their content a few times, not once
-   - Increase your volume to increase your exposure to increase your follows
-2. Authority
-   - Show your results
-   - Use your case studies
-   - Talk about your transformation
-3. Personal
-   - Your worldview, personal thoughts, and story
-   - Give real world context behind your beliefs
+Ask questions to grab attention.
 
 1-30-5
 
@@ -30,25 +20,21 @@ Produce 3 types of content
 - Consume 30 minutes of content
 - Write 5 tweets about it
 
-Get Attention
-
-- Ask a question
-- Make them curious
-
 ## Sell
 
-Your face is more powerful than your logo.
+Show face when possible.
 
-Use storytelling in marketing.
+Use storytelling.
 
-Focus on how to help the client instead of trying to sell them something. Empathy wins sales.
+Focus on helping client. Empathy wins sales.
 
-People buy the transformation not the product.
+People buy the transformation. Not the product.
 
 People buy with emotion and justify with logic.
 
-Everyone's motivation revolves around two drives: emotional (raising status and feeling loved) and biological (fulfilling basic needs). Speak to these motivations.
+Speak to client's emotional and biological motivations.
 
-## Build Your Network
+## Network
 
-Message and connect with people who are on your follower level. Many will grow with you and help you later on.
+Message followers.
+
