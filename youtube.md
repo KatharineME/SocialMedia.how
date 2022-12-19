@@ -10,6 +10,7 @@ Effective Formats
 
 - A step by step how to
 - Transformation (viewer want to stay to the end to watch to see the transformation)
+- Show results and offer service
 
 Monetization
 

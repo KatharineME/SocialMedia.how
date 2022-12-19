@@ -8,6 +8,8 @@ Founded Guardiome, Tiny Beasts, Mount Jiu-Jitsu, Immunogram, and Chopper Health 
 
 ## Kate
 
+KatharineME
+
 Here to show the world the beauty of genomics 🧬
 Mother of two. Bioinformatician. CEO at Guardiome. Ex professional ballet dancer. In that order.
 

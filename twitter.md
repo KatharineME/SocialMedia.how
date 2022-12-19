@@ -13,9 +13,6 @@ Update hashtags monthly based on whats trending.
 
 ## Twitter Genomics
 
-Here to show the world the beauty of genomics 🧬
-Mother of two. Bioinformatician. CEO at Guardiome. Ex professional ballet dancer. In that order.
-
 #genomics #bioinformatics #dna #science
 
 If you learned something from this (and think its worth sharing), please like it, retweet it, and follow @KatharineME 🧬
