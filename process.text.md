@@ -1,6 +1,6 @@
 ## Store
 
-In personal website or blog
+At personal website.
 
 ## Cut
 
@@ -17,6 +17,10 @@ Plug snippet text into snippet image template. Save snippet image to photos.
 Use later.com / Buffer / Metricool to schedule a Tweet, Instagram Post, and YouTube Post for each snippet.
 
 Link to the long form text in all posts (monetization funnel).
+
+## Promote
+
+Share Instagram story linking to Instagram post.
 
 ## Make Into Video
 

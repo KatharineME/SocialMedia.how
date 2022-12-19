@@ -1,19 +1,47 @@
-Film with camera and Rode microphone.
+## Film
 
-Use Blue microphone for audio independent of video.
+Film with Sony camera and Rode microphone.
 
-Use OBS to film yourself while recording your screen.
+Use Blue microphone for independent audio.
 
-Edit video in Final Cut Pro.
+Use OBS to film yourself while recording the screen.
 
-Save Final Cut Pro video project on personal hard drive.
+## Edit
 
-Include all content used to make video in Final Cut Pro project folder.
+Edit in Final Cut Pro (FCP).
+
+Include all content (images, sounds) used to make video in FCP project folder.
+
+Save FCP project on personal hard drive.
+
+## Publish
 
 Use TopicMojo and AskAlso for title and video description text.
 
-Use TubeBuddy for choosing tags.
-
 Add video thumbnail to the end of the blog post it came from.
 
-## Cut into smaller videos
+## Cut into short vertical videos
+
+Duplicate FCP project.
+
+Change new project's aspect ratio to Vertical.
+
+Cut into compelling pieces.
+
+Complete all edits except text.
+
+Save.
+
+Upload to Captions App on phone and customize.
+
+Save.
+
+## Schedule
+
+Schedule Instagram Reels, YouTube Shorts, and Twitter video posts.
+
+Release 3 of each per week.
+
+## Promote
+
+Make Instagram Stories advertising new reels.

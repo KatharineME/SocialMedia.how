@@ -11,7 +11,7 @@ Founded Guardiome, Tiny Beasts, Mount Jiu-Jitsu, Immunogram, and Chopper Health 
 KatharineME
 
 Here to show the world the beauty of genomics 🧬
-Mother of two. Bioinformatician. CEO at Guardiome. Ex professional ballet dancer. In that order.
+Mother of two. CEO at Guardiome. Bioinformatician. Ex professional ballet dancer.
 
 ## Amanda
 
