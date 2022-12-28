@@ -14,11 +14,11 @@ https://www.reddit.com/r/NewTubers/comments/qg8pfp/mrbeast_top_5_tricks_for_the_
 
 https://twitter.com/mrbeast/status/1236659027989467138?lang=en
 
-## Long
-
 Idea matters more than aesthetics.
 
 Give 2x the effort for 10x the views.
+
+## Long
 
 Hook audience in first 8 seconds.
 
