@@ -7,7 +7,7 @@ The microphone will automatically turn on and off when connected and disconnecte
 - Press and hold for 3 seconds to turn on.
 - Press once to engage -20dB pad. This will stop the internal circuitry if the microphone from clipping loud sounds. It is used when you want to record those loud sounds.
 - Press a second time to engage the safety channel. This will record a second track at -20dB that you can use when your main track fails you.
-- Press a third time to engage both -20dB pad and saftey channel.
+- Press a third time to engage both -20dB pad and safety channel.
 
 The peak signal next to the power button will illuminate when the sound is being clipped, indicating you should engage -20dB pad.
 

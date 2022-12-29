@@ -32,8 +32,6 @@ Complete all edits except text.
 
 Save.
 
-Upload to Captions App on phone and customize.
-
 Save.
 
 ## Schedule
