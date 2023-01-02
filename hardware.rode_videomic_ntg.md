@@ -21,7 +21,7 @@ The filters are used for mitigating wind noise or other low frequency sounds lik
 - Press and hold to engage high frequency boost (right LED illuminates). It is used to enhance clarity and detail inthe recording.
 - Press and hold to disengage high frequency boost.
 
-## Setup with sony camera
+## Setup with Sony camera
 
 On the microphone
 
