@@ -22,5 +22,5 @@ Genomics is timeless ♾️
 
 #writing #writingtips #editing #creativewriting #englishtips
 
-Learned something? please like, retweet, and follow 
+Learned something? please like, retweet, and follow
 @AmandaErnar
