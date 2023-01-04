@@ -20,6 +20,7 @@ Genomics is timeless ♾️
 
 ## Writing
 
-#writing #writingtips #editing #creativewriting #writerssupportingwriters #amwriting
+#writing #writingtips #editing #creativewriting #englishtips
 
-If you learned something today, please like, retweet, and follow @AmandaErnar 👩‍💻
+Learned something? please like, retweet, and follow 
+@AmandaErnar
