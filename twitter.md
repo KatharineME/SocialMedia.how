@@ -1,5 +1,7 @@
 https://business.twitter.com/en/blog/the-dos-and-donts-of-hashtags.html[https://business.twitter.com/en/blog/the-dos-and-donts-of-hashtags.html]
 
+Use 1-4 hashtags.
+
 Update hashtags monthly.
 
 ## Julia
