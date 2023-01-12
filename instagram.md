@@ -1,4 +1,4 @@
-Add keywords in bio that you want to rank for.
+Add keywords in bio.
 
 Write long and descriptive captions that include keywords for posts.
 
