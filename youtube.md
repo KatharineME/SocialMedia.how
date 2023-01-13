@@ -22,6 +22,8 @@ Give 2x the effort for 10x the views.
 
 Hook audience in first 8 seconds.
 
+No intro, get right to the point.
+
 Add something interesting or surprising every 4 minutes.
 
 Remove boring moments.
@@ -39,6 +41,8 @@ Deliver payoff.
 Write universally interesting title with popular keywords under 50 characters.
 
 Make thumbnail bright, high contrast, big text, and include a face.
+
+Suggest only one video to watch next.
 
 Upload one video a week.
 
