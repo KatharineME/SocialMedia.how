@@ -8,4 +8,4 @@ Make a story with your recent post.
 
 Show your face.
 
-Make highlights for topics you post about (ie. jiu-jitus)
+Make highlights for topics you post about (ie. jiu-jitus).
