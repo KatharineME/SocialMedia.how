@@ -1,4 +1,4 @@
-Show your faces.
+Show your face.
 
 Make highlights like selling points.
 
