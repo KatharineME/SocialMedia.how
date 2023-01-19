@@ -1,11 +1,18 @@
-Add keywords in bio.
+Show your faces.
 
-Write long and descriptive captions that include keywords.
+Make highlights like selling points.
 
-Use between 15-30 hashtags on posts.
+## Bio
+Add keywords.
 
-Make a story with your recent post.
+## Caption
+write long descriptive captions that make people want to keep reading.
+Include ketwords.
+Use between 15-30 hashtags.
 
-Show your face.
+## Reel
+Add cut or change every 7 seconds.
+Use onscreen captions whenever there is speaking.
 
-Make highlights for topics you post about (ie. jiu-jitus).
+## Story
+Tease your posts and reels.
