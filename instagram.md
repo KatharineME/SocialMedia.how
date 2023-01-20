@@ -2,6 +2,8 @@ Show your face.
 
 Make highlights like selling points.
 
+Prioritize Reels.
+
 ## Bio
 
 Add keywords.
