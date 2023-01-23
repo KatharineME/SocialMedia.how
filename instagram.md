@@ -1,3 +1,5 @@
+Set account to creator.
+
 Show your face.
 
 Make highlights like selling points.
