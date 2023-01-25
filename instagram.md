@@ -23,4 +23,4 @@ Use onscreen captions whenever there is speaking.
 
 ## Story
 
-Tease your posts and reels.
+Tease your posts and reels by partially covering them with visuals or text.
