@@ -14,11 +14,7 @@ Showcase results, case studies, transformations, etc.
 
 Ask questions to grab attention.
 
-1-30-5
-
-- Choose 1 topic
-- Consume 30 minutes of content
-- Write 5 tweets about it
+1-30-5. Choose 1 topic. Consume 30 minutes of content. Write 5 tweets about it.
 
 ## Sell
 
