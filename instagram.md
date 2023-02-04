@@ -12,9 +12,9 @@ Add keywords.
 
 ## Caption
 
-write long descriptive captions that make people want to keep reading.
-Include ketwords.
-Use between 15-30 hashtags.
+Write long descriptive captions that make people want to keep reading.
+Include keywords.
+Use between 15 to 30 hashtags.
 
 ## Reel
 

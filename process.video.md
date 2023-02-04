@@ -20,7 +20,7 @@ Use TopicMojo and AskAlso for title and video description text.
 
 Add video thumbnail to the end of the blog post it came from.
 
-## Cut into short vertical videos
+## Cut into Short Vertical Videos
 
 Duplicate FCP project.
 

@@ -22,10 +22,10 @@ Link to the long form text in all posts (monetization funnel).
 
 Share Instagram story linking to Instagram post.
 
-## Make Into Video
+## Make into Video
 
 Use the text as a script for the video and follow video pipeline.
 
-## Make Into Podcast
+## Make into Podcast
 
 Use the text as a script for the podcast and follow podcast pipeline.
