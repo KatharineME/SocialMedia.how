@@ -1,7 +1,8 @@
 ## Exercise
 
-#garagegym #rehab #workout #training #cardio #strengthtraining
-#habit #discipline #motivation #alphadad
+#garagegym #rehab #workout #training #cardio #strengthtraining #alphadad
+#habit #discipline #motivation
+#perseverance #successmindset #winnermindset #unstoppable #mission #effort
 
 ## Mount Jiu-Jitsu
 
