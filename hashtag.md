@@ -1,22 +1,17 @@
-## Exercise
+1% better than yesterday 📈
 
-#garagegym #rehab #workout #training #cardio #strengthtraining #alphadad
-#habit #discipline #motivation
-#perseverance #successmindset #winnermindset #unstoppable #mission #effort
+```
+#assaultbike #echobike
+#alphadad #dilf #milf
+#garagegym
+#rehab #workout #training #cardio #strengthtraining
 
-## Mount Jiu-Jitsu
+#habit #discipline #motivation #perseverance #successmindset #winnermindset #unstoppable #mission #effort
 
 #mma #jiujitsu #bjj #grappling #catchwrestling
 #jiujitsuacademy #jiujitsuschool #kidsjiujitsu
 
-## Hunting
-
 #mountain #hunting
 
-## Bioinformatics
-
 #programming #datascience #bioinformatics #genomics #dna #rna #protein #geneexpression #julialang #gsea
-
-If you learned something from this (and want others to get some too), please like it, retweet it, and follow @KwatMDPhD 🌱
-1% better than yesterday 📈
-See you in the next ⌨️
+```
