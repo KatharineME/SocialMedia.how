@@ -1,11 +1,11 @@
-## Use as webcam
+## Use as Webcam
 
-On camera
+#### On Camera
 
-- Setup > USB Connection > PC Remote
+Setup > USB Connection > PC Remote
 
-On computer
+#### On Computer
 
-- Install [Sony Imaging Edge Webcam](https://support.d-imaging.sony.co.jp/app/webcam/en/download/)
+Install [Sony Imaging Edge Webcam](https://support.d-imaging.sony.co.jp/app/webcam/en/download/)
 
-- Select sony as video source
+Select Sony as video source

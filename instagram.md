@@ -13,12 +13,15 @@ Add keywords.
 ## Caption
 
 Write long descriptive captions that make people want to keep reading.
+
 Include keywords.
+
 Use between 15 to 30 hashtags.
 
 ## Reel
 
 Add cut or change every 7 seconds.
+
 Use onscreen captions whenever there is speaking.
 
 ## Story

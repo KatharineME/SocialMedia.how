@@ -14,13 +14,15 @@ Plug snippet text into snippet image template. Save snippet image to photos.
 
 ## Schedule
 
-Use later.com / Buffer / Metricool to schedule a Tweet, Instagram Post, and YouTube Post for each snippet.
+Schedule snippets as Tweets on Twitter for Business.
+
+Put snippets in snippet image template and schedule in Instagram app.
 
 Link to the long form text in all posts (monetization funnel).
 
 ## Promote
 
-Share Instagram story linking to Instagram post.
+Share Instagram story linking to Instagram posts.
 
 ## Make into Video
 
