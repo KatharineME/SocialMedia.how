@@ -2,19 +2,19 @@
 
 Niche down.
 
-Transform your listeners.
+Be yourself.
 
 Tell stories.
 
-Be yourself.
-
 Message with simplicity and clarity.
+
+Transform your followers.
 
 Aim to produce a book.
 
 Become the leading authority.
 
-Do not be perfect.
+Be imperfect.
 
 ## Iterate
 
@@ -29,56 +29,54 @@ Hook.
 
 Lead with a story.
 
-Give the audience a breathing room.
+Give breathing room.
 
-Make the writing scannable.
+Make it scannable.
 
 Use visuals.
 
 End abruptly.
 
-Have call to action like liking, sharing, commenting, and signing up.
+Call to act (like, share, comment, or sign up).
 
 Proof read out loud.
 
 #### Record Video Podcast.
 
-Speak close to the microphone.
+Aim to be loved.
 
 Test before recording.
+
+Speak close to the microphone.
 
 Stay green.
 
 Be authentic.
 
-Keep rolling with mistakes; edit later.
+Roll with mistakes; edit later.
 
-#### Guest Interview
+###### Guest Interview
 
 Make them feel comfortable.
 "I am not recording. Let's just pretend like we are at a coffee shop having a conversation. I just want to get to know you and understand your work."
 
 Dive deep by following answers with more "why" questions.
 
-#### Edit.
+#### Edit Video Podcast.
 
-Make long-form contents to be loved.
-
-Make short-form contents to be discovered.
-
-Make recap episodes seasonally.
-
-Do not overedit.
+Edit less.
 
 Hook audience in first 8 seconds.
 
 Tease the transformation.
 
-Add visuals and B-roll.
+Add visuals.
 
 Peak interest every 4 minutes.
 
 Deliver transformation.
+
+Make recap episodes seasonally.
 
 #### Put Sound on Buzzsprout.
 
@@ -98,50 +96,43 @@ Put snippets in post template and schedule on Instagram Mobile App. Use 15-30 ha
 
 #### Make Shorts.
 
-YouTube Shorts, Instagram Reels, Twitter Video.
-
-Use TopicMojo and AskAlso to write title and description.
-
-Link to long video.
-
-Put emoji and 3 hashtags in title.
+Aim to be discovered.
 
 Use onscreen captions
+
+Upload to YouTube Shorts, Instagram Reels, and Twitter Video.
+
+Use emoji and 3 hashtags in title.
+
+Link to long video.
 
 Combine shorts from multiple video podcasts.
 
 ## Grow
 
-Launch big.
+Increase volume to increase exposure.
 
-Start shipping, analyze and niche down for a long time, build a loyal base, and then diversify.
+Ship often. Launch big.
 
-Build a email list.
-Exchange values for emails.
-Build a community.
+Show results and transformations.
 
-Get a review by sending a direct video message asking for it.
+Pay attention to the retention graph.
 
-Mention other shows to be associated with them.
+#### Build Community.
 
-Build relationships.
-Show up in other shows.
-
-Check analytics, especially the retention graph.
-
-Email list.
-
-Reviews.
-
-Showcase results, case studies, transformations, etc.
+Build a loyal community, then diversify.
 
 Respond to followers.
 
-Interview and befriend people in your field.
+Build an email list. Exchange value for emails.
 
-Increase volume to increase exposure.
+Get reviews by asking in direct messages.
 
-#### SEO.
+Befriend and interview people in your field.
+
+Mention and participate in other shows.
+
+#### Optimize Search.
 
 Give what users are looking for (tutorials, cheat sheet, tools, and more).
 
@@ -151,15 +142,23 @@ Same audience, same channel.
 
 ## Sell
 
-Focus on helping clients. Empathy wins.
+Empathy wins.
 
-People buy the transformation.
+Focus on helping customers.
 
-People buy with emotion and justify with logic.
+Sell with emotion, justify with logic.
 
-Speak to client's emotional and biological motivations.
+Sell the transformation.
+
+Fulfill biological needs.
 
 ## Use
+
+Text Optimization
+
+https://topicmojo.com
+
+https://alsoasked.com
 
 Image
 
